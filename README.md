@@ -46,9 +46,9 @@ I've also spent a significant amount of time working with databases and understa
 ## **Social**
 <div align="center">
 
-**Telegram:** [@destructive_win](https://t.me/destructive_win)  
-**GitHub:** [destructive-win](https://github.com/destructive-win)  
-**Discord:** [destructive.win](https://discord.com/users/1375005865895268372)
+**Telegram:** [@Insecrient](https://t.me/Insecrient)  
+**GitHub:** [Insecrient](https://github.com/Insecrient)  
+**Discord:** [Insecrient](https://discord.com/users/1317965879966699582)
 
 </div>
 
