@@ -1,16 +1,56 @@
-## Hi there 👋
 
-<!--
-**destructive-win/destructive-win** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# **Welcome**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<p align="center">
+ <img width="100%" hight="" src="assets/void.gif"/>
+</p>
+
+<div align="center">
+
+# Backend Developer
+
+### **Python** • **Django** • **Bots** • **Databases**
+
+<img src="https://skillicons.dev/icons?i=python,django,postgresql,redis,docker,git,linux&theme=dark&perline=7" />
+
+</div>
+
+---
+
+## **Technologies**
+
+**Backend:** Python, Django, Celery, RabbitMQ  
+**Bots:** Aiogram, Disnake  
+**Databases:** PostgreSQL, MySQL, Redis  
+**Tools:** Docker, Git, Linux
+
+---
+## **Bio**
+
+Hello! I'm glad to see you here. Let me tell you a bit about myself. I'm a self-taught programmer who knows several Python frameworks. I can develop bots for Discord and Telegram using frameworks like aiogram and disnake (for Discord). Recently, I've added Django to my collection of frameworks.
+
+I've also spent a significant amount of time working with databases and understand how they work. I have experience building high-load services that required implementing caching systems like Redis, among other things. Currently, I continue to actively immerse myself in IT and master more and more new technologies.
+
+---
+
+## **Stats**
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=destructive-win&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CMon%2CSat)](https://git.io/streak-stats)
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=destructive-win&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+## **Social**
+<div align="center">
+
+**Telegram:** [@destructive_win](https://t.me/destructive_win)  
+**GitHub:** [destructive-win](https://github.com/destructive-win)  
+**Discord:** [destructive.win](https://discord.com/users/1375005865895268372)
+
+</div>
+
+---
+
