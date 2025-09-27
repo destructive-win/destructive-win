@@ -38,9 +38,9 @@ I've also spent a significant amount of time working with databases and understa
 ---
 
 ## **Stats**
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=destructive-win&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CMon%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Insecrient&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CMon%2CSat)](https://git.io/streak-stats)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=destructive-win&layout=compact&theme=vision-friendly-dark&cache_bust=1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Insecrient&layout=compact&theme=vision-friendly-dark&cache_bust=1)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## **Social**
